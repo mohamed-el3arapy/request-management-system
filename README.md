@@ -3,7 +3,7 @@
 
 ##  1. UI Design
 
-![UI](UI-of-requests-display.png)
+![UI](assets/UI-of-requests-display.png)
 
 Simple interface showing how requests are displayed for employees and managers.  
 Each user can interact with requests based on their role.
@@ -12,7 +12,7 @@ Each user can interact with requests based on their role.
 
 ##  2. State Machine
 
-![State Machine](State-machine-of-request-CH5.png)
+![State Machine](assets/State-machine-of-request-CH5.png)
 
 Illustrates the lifecycle of a request from creation to approval or rejection.  
 Shows how the request moves between different states.
@@ -23,14 +23,14 @@ Shows how the request moves between different states.
 
 ###  Edit Request
 
-![Sequence Edit](Edit-request-sequance.png)
+![Sequence Edit](assets/Edit-request-sequance.png)
 
 Shows the interaction flow when a user edits a request.  
 Includes validation and updating the system.
 
 ###  Cancel Request
 
-![Sequence Cancel](Cancel-request-sequance.png)
+![Sequence Cancel](assets/Cancel-request-sequance.png)
 
 Describes how a request is canceled by the user.  
 Covers the steps from action to system update.
@@ -41,14 +41,14 @@ Covers the steps from action to system update.
 
 ###  Edit Request Flow
 
-![Flow Edit](Edit-request-flowchart.png)
+![Flow Edit](assets/Edit-request-flowchart.png)
 
 Represents the steps for modifying a request.  
 Includes decision points and update process.
 
 ###  Cancel Request Flow
 
-![Flow Cancel](Cancel-request-flowchart.png)
+![Flow Cancel](assets/Cancel-request-flowchart.png)
 
 Shows the logic behind canceling a request.  
 Illustrates conditions and final status update.
